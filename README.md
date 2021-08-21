@@ -1,5 +1,8 @@
 ## Abdelrhman Wahdan
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+Hi, I'm a Data scientist with 3+ years of experience using predictive modeling, data processing, and data mining algorithms
+to solve challenging business problems who loves to share his knowledge with others and teaching them. 
+I'd love to combine my passion for learning and teaching with my machine learning and natural language processing skills
+to start building personalized learning products for people.
 
 # Education
 * Bachelor's Degree Faculty of computer and artiﬁcial intelligence , Helwan university 04/2017 - 06/2021.
