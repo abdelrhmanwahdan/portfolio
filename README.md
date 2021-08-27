@@ -10,8 +10,8 @@ to start building personalized learning products for people.*
 # [Project 1: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
 ![Netflix](netflix.jpg "Netflix")
 
-Who doesn’t like Netflix? This dataset on kaggle has tv shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.  
-So in this project I am doing exploratory data analysis (data cleaning , data proceccing , data visualizations) on this dataset.
+Who doesn’t like Netflix? This dataset on Kaggle has TV shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.
+So in this project I am doing exploratory data analysis (data cleaning , data processing , data visualizations) on this dataset.
 
 ### Contents
 0. **ABOUT THE DATA**
