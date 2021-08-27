@@ -13,7 +13,7 @@ to start building personalized learning products for people.*
 Who doesn’t like Netflix? This dataset on kaggle has tv shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.  
 So in this project I am doing exploratory data analysis (data cleaning , data proceccing , data visualizations) on this dataset.
 
-# Contents
+### Contents
 0. **ABOUT THE DATA**
 
 1. **IMPORTING LIBRARIES**
@@ -52,9 +52,9 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
 4. **RECOMMENDATION SYSTEM**
 
-# About the data
+### About the data
 
-### FEATURES:
+#### FEATURES:
 
 1. SHOW-ID - Unique id of each show (not much of a use for us in this notebook)
 2. TYPE - The category of a show, can be either a Movie or a TV Show
