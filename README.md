@@ -81,18 +81,18 @@ I begin by investigating the LibriSpeech dataset that will be used to train and 
 This project requires GPU acceleration to run efficiently.
 
 #### **contents:**
-1. Data wrangling (Data gathering , Data assessing , Data cleaning).
-2. Exploratory Data Analysis.
-3. Making some conclusions about the data.
-4. developing the models which are :
+1. **Data wrangling (Data gathering , Data assessing , Data cleaning).**
+2. **Exploratory Data Analysis.**
+3. **Making some conclusions about the data.**
+4. **developing the models which are :**
     1. Model 0: RNN
     2. Model 1: RNN + TimeDistributed Dense
     3. Model 2: CNN + RNN + TimeDistributed Dense
     4. Model 3: Deeper RNN + TimeDistributed Dense
     5. Model 4: Bidirectional RNN + TimeDistributed Dense
-    6. Model 5: Custom
+    6. Model 5: Custom**
     7. model 6: final model
-5. visualizing and evaluating the models.
+5. **visualizing and evaluating the models.**
 
 # [Project 3: Breast cancer detection](https://github.com/radwaahmed548/BCD)
 ![Breast cancer detection](BCD.jpg)
@@ -163,16 +163,16 @@ In this project, I build a machine translation model Using CNNS, GRUS, transform
 This project requires GPU acceleration to run efficiently.
 
 #### **contents:**
-1. Data wrangling (Data gathering , Data assessing , Data cleaning).
-2. Exploratory Data Analysis.
-3. Making some conclusions about the data.
-4. developing the models which are :
+1. **Data wrangling (Data gathering , Data assessing , Data cleaning).**
+2. **Exploratory Data Analysis.**
+3. **Making some conclusions about the data.**
+4. **developing the models which are :**
     1. Model 1: RNN
     2. Model 2: Embedding
     3. Model 3: Bidirectional RNNs
-    4. Model 4: Encoder-Decoder
+    4. Model 4: Encoder-Decoder**
     5. Model 5: Custom
-5. visualizing and evaluating the models.
+5. **visualizing and evaluating the models.**
 
 # [Project 5: IMDb movie data project](https://github.com/abdelrhmanwahdan/IMDb-movie-data-project)
 ![data visualization](data-visualization.jpg)
@@ -183,9 +183,9 @@ Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=r
 in this project I investigate ,analyze ,clean and visualize The IMDb movie data.
 
 #### **contents:**
-1. Data wrangling (Data gathering, Data assessing, Data cleaning).
-2. Exploratory Data Analysis.
-3. getting answers on some questions about the correlations between the features of the dataset and if there any relation between them.
+1. **Data wrangling (Data gathering, Data assessing, Data cleaning).**
+2. **Exploratory Data Analysis.**
+3. **getting answers on some questions about the correlations between the features of the dataset and if there any relation between them.**
 
 ![analyzing imdb dataset](imdb.png)
 
