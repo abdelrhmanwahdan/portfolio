@@ -56,7 +56,7 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
 #### FEATURES:
 
-1. SHOW-ID - Unique id of each show (not much of a use for us in this notebook)
+1. SHOW-ID - Unique id of each show (not much of a use for us in this project)
 2. TYPE - The category of a show, can be either a Movie or a TV Show
 3. TITLE - Name of the show
 4. DIRECTOR - Name of the director(s) of the show
