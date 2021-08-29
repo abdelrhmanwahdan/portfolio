@@ -9,7 +9,9 @@ to start building personalized learning products for people.*
 
 # [Project 1: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
 
+
 ![Exam](exam.jpg "exam")
+
 
 # Aim
 The aim of this project is to understand the various facts like economic, personal and social on the students performance.
@@ -27,6 +29,7 @@ The aim of this project is to understand the various facts like economic, person
 2. **Data analysis and visualization.**
 
     1. How many students passed in Math exam ? 
+    
 
     ![Math](math.png "math")
     ![Math2](math2.png "math2")
@@ -42,15 +45,19 @@ The aim of this project is to understand the various facts like economic, person
 
     ![Writing](writing.png "writing")
     ![Writing2](writing2.png "writing2")
+    
 
     4. How many students passed in all the subjects ? 
 
     ![All](all.png "all")
     ![All2](all2.png "all2")
+    
+    
     5. What are the grades of the students ?
 
     ![Grades](grades.png "grades")
     ![Grades2](grades2.png "grades2")
+    
 
 3. **Preprocessing the data.**
 
