@@ -9,7 +9,7 @@ to start building personalized learning products for people.*
 
 # [Project 1: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
 
-![Exam](images/exam.jpg "exam")
+![Exam](exam.jpg "exam")
 
 # Aim
 The aim of this project is to understand the various facts like economic, personal and social on the students performance.
@@ -28,29 +28,29 @@ The aim of this project is to understand the various facts like economic, person
 
     1. How many students passed in Math exam ? 
 
-    ![Math](images/math.png "math")
-    ![Math2](images/math2.png "math2")
+    ![Math](math.png "math")
+    ![Math2](math2.png "math2")
 
 
     2. How many studends passed in reading ? 
 
-    ![Reading](images/reading.png "reading")
-    ![Reading2](images/reading2.png "reading2")
+    ![Reading](reading.png "reading")
+    ![Reading2](reading2.png "reading2")
 
 
     3. How many students passed writing ?
 
-    ![Writing](images/writing.png "writing")
-    ![Writing2](images/writing2.png "writing2")
+    ![Writing](writing.png "writing")
+    ![Writing2](writing2.png "writing2")
 
     4. How many students passed in all the subjects ? 
 
-    ![All](images/all.png "all")
-    ![All2](images/all2.png "all2")
+    ![All](all.png "all")
+    ![All2](all2.png "all2")
     5. What are the grades of the students ?
 
-    ![Grades](images/grades.png "grades")
-    ![Grades2](images/grades2.png "grades2")
+    ![Grades](grades.png "grades")
+    ![Grades2](grades2.png "grades2")
 
 3. **Preprocessing the data.**
 
