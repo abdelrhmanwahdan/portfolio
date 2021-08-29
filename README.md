@@ -67,7 +67,7 @@ The aim of this project is to understand the various facts like economic, person
 
     3. One hot encoding for categorical columns.
 
-    4. Normalizing the continous columns.
+    4. Normalizing the continuous columns.
 
     5. Splitting the data.
 
@@ -81,13 +81,13 @@ The aim of this project is to understand the various facts like economic, person
 
     4. K-Nearest neighbors.
 
-    5. Random forrest.
+    5. Random forest.
 
 5. **Evaluating the model**
 
 # Conclusion
 
-the random forrest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
+the random forest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
 
 
 # [Project 2: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
