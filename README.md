@@ -36,49 +36,49 @@ In this Project,We're going to predict the price range of each mobile in the dat
 ### How does ram is affected by price ?
 
 
-    ![Ram](ram.png "ram")
+![Ram](ram.png "ram")
 
 
 ### What is the relation between Internal Memory and Price Range ?
 
 
-    ![Internal memory](internal_memory.png "internal memory")
+![Internal memory](internal_memory.png "internal memory")
 
 
 ### What is the percentage of Phones which support 3G ?
 
 
-    ![3G](3g.png "3g")
+![3G](3g.png "3g")
 
 
 ### What is the percentage of Phones which support 4G ?
 
 
-    ![4G](4g.png "4g")
+![4G](4g.png "4g")
 
 
 ### What is the relation between Battery power and Price Range ?
 
 
-    ![Battery](battery.png "battery")
+![Battery](battery.png "battery")
 
 
 ### Visualizing No of Phones vs Camera megapixels of front and primary camera.
     
 
-    ![Camera](camera.png "camera")
+![Camera](camera.png "camera")
 
 
 ### What is the relation between Mobile Weight and Price Range ?
 
 
-    ![Mobile Weight](mobile_weight.png "mobile weight")    
+![Mobile Weight](mobile_weight.png "mobile weight")    
 
 
 ### What is the relation between Talk time and Price Range ?
 
 
-    ![Talk time](talk_time.png "talk time")
+![Talk time](talk_time.png "talk time")
     
     
 
@@ -144,35 +144,35 @@ The aim of this project is to understand the various facts like economic, person
 2. **Data analysis and visualization.**
 
 ### How many students passed in Math exam ?
-    
 
-    ![Math](math.png "math")
-    ![Math2](math2.png "math2")
+
+![Math](math.png "math")
+![Math2](math2.png "math2")
 
 
 ### How many studends passed in reading ?
 
-    ![Reading](reading.png "reading")
-    ![Reading2](reading2.png "reading2")
+![Reading](reading.png "reading")
+![Reading2](reading2.png "reading2")
 
 
 ### How many students passed writing ?
 
-    ![Writing](writing.png "writing")
-    ![Writing2](writing2.png "writing2")
-    
+![Writing](writing.png "writing")
+![Writing2](writing2.png "writing2")
+
 
 ### How many students passed in all the subjects ?
 
-    ![All](all.png "all")
-    ![All2](all2.png "all2")
-    
-    
+![All](all.png "all")
+![All2](all2.png "all2")
+
+
 ### What are the grades of the students ?
 
-    ![Grades](grades.png "grades")
-    ![Grades2](grades2.png "grades2")
-    
+![Grades](grades.png "grades")
+![Grades2](grades2.png "grades2")
+
 
 3. **Preprocessing the data.**
 
