@@ -31,46 +31,46 @@ In this Project,We're going to predict the price range of each mobile in the dat
 
 
 
-    1. How does ram is affected by price ?
+    - How does ram is affected by price ?
 
 
     ![Ram](ram.png "ram")
 
 
-    2. What is the relation between Internal Memory and Price Range ? 
+    - What is the relation between Internal Memory and Price Range ? 
 
 
     ![Internal memory](internal_memory.png "internal memory")
 
-    3. What is the percentage of Phones which support 3G ?
+    - What is the percentage of Phones which support 3G ?
 
 
     ![3G](3g.png "3g")
 
 
-    4. What is the percentage of Phones which support 4G ?
+    - What is the percentage of Phones which support 4G ?
 
 
     ![4G](4g.png "4g")
 
 
-    5. What is the relation between Battery power and Price Range ?
+    - What is the relation between Battery power and Price Range ?
 
 
     ![Battery](battery.png "battery")
 
 
-    6. Visualizing No of Phones vs Camera megapixels of front and primary camera.
+    - Visualizing No of Phones vs Camera megapixels of front and primary camera.
 
     ![Camera](camera.png "camera")
 
 
-    7. What is the relation between Mobile Weight and Price Range ?
+    - What is the relation between Mobile Weight and Price Range ?
 
     ![Mobile Weight](mobile_weight.png "mobile weight")    
 
 
-    8. What is the relation between Talk time and Price Range ?
+    - What is the relation between Talk time and Price Range ?
 
     ![Talk time](talk_time.png "talk time")
     
@@ -137,32 +137,32 @@ The aim of this project is to understand the various facts like economic, person
 
 2. **Data analysis and visualization.**
 
-    1. How many students passed in Math exam ? 
+    - How many students passed in Math exam ? 
     
 
     ![Math](math.png "math")
     ![Math2](math2.png "math2")
 
 
-    2. How many studends passed in reading ? 
+    - How many studends passed in reading ? 
 
     ![Reading](reading.png "reading")
     ![Reading2](reading2.png "reading2")
 
 
-    3. How many students passed writing ?
+    - How many students passed writing ?
 
     ![Writing](writing.png "writing")
     ![Writing2](writing2.png "writing2")
     
 
-    4. How many students passed in all the subjects ? 
+    - How many students passed in all the subjects ? 
 
     ![All](all.png "all")
     ![All2](all2.png "all2")
     
     
-    5. What are the grades of the students ?
+    - What are the grades of the students ?
 
     ![Grades](grades.png "grades")
     ![Grades2](grades2.png "grades2")
@@ -224,21 +224,21 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
 3. **DATA ANALYSIS AND CONCLUSIONS**
 
-    1. How content is distributed ?  
+    - How content is distributed ?  
 
     ![Content distribution](netflix_content_distribution.png "Content distribution")
 
 
-    2. WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?  
+    - WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?  
 
     ![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
 
 
-    3. what is the content added in each year ?  
+    - what is the content added in each year ?  
 
     ![Content added](netflix_conent_added.png "Content added")
 
-    4. what are the ratio of the genres ?  
+    - what are the ratio of the genres ?  
 
     ![genres](netflix_genres.png "genres")
 
