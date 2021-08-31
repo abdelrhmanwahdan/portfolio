@@ -39,7 +39,7 @@ In this Project,We're going to predict the price range of each mobile in the dat
     ![Ram](ram.png "ram")
 
 
-    ### What is the relation between Internal Memory and Price Range ? 
+    ### What is the relation between Internal Memory and Price Range ?
 
 
     ![Internal memory](internal_memory.png "internal memory")
@@ -143,32 +143,32 @@ The aim of this project is to understand the various facts like economic, person
 
 2. **Data analysis and visualization.**
 
-    **How many students passed in Math exam ?**
+    ### How many students passed in Math exam ?
     
 
     ![Math](math.png "math")
     ![Math2](math2.png "math2")
 
 
-    **How many studends passed in reading ?**
+    ### How many studends passed in reading ?
 
     ![Reading](reading.png "reading")
     ![Reading2](reading2.png "reading2")
 
 
-    **How many students passed writing ?**
+    ### How many students passed writing ?
 
     ![Writing](writing.png "writing")
     ![Writing2](writing2.png "writing2")
     
 
-    **How many students passed in all the subjects ?**
+    ### How many students passed in all the subjects ?
 
     ![All](all.png "all")
     ![All2](all2.png "all2")
     
     
-    **What are the grades of the students ?**
+    ### What are the grades of the students ?
 
     ![Grades](grades.png "grades")
     ![Grades2](grades2.png "grades2")
@@ -230,21 +230,21 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
     
 3. **DATA ANALYSIS AND CONCLUSIONS**
 
-    **How content is distributed ?**
+    ### How content is distributed ?
 
     ![Content distribution](netflix_content_distribution.png "Content distribution")
 
 
-    **WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?**  
+    ### WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?
 
     ![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
 
 
-    **what is the content added in each year ?**  
+    ### what is the content added in each year ?
 
     ![Content added](netflix_conent_added.png "Content added")
 
-    **what are the ratio of the genres ?**  
+    ### what are the ratio of the genres ?
 
     ![genres](netflix_genres.png "genres")
 
