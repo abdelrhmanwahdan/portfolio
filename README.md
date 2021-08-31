@@ -7,7 +7,118 @@ to start building personalized learning products for people.*
 # Education
 * Bachelor's Degree Faculty of computer and artiﬁcial intelligence , *Helwan university* 04/2017 - 06/2021.
 
-# [Project 1: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
+# [Project 1: Mobile price prediction](https://github.com/abdelrhmanwahdan/mobile-price-classification)
+
+
+![mobile](mobile.webp "mobile")
+
+# AIM
+In this Project,We're going to predict the price range of each mobile in the dataser based on the mobile specifications as : Battery power, 3G enabled , wifi ,Bluetooth, Ram etc .
+
+# Usage
+- This kind of prediction will help companies to  estimate the price of mobiles of an mobile phone based on its specifications.
+- Beside that it will help Consumers to verify that they are paying best price according to the specs of the mobile.
+
+# Contents
+1. **About the data.**
+
+2. **Importing the libraries and the data.**
+
+3. **Understanding the data.**
+
+4. **Data analysis and visualization.**
+
+
+    ![All](all.png "all")
+
+
+
+    1. How does ram is affected by price ?
+
+
+    ![Ram](ram.png "ram")
+
+
+    2. What is the relation between Internal Memory and Price Range ? 
+
+
+    ![Internal memory](internal_memory.png "internal memory")
+
+    3. What is the percentage of Phones which support 3G ?
+
+
+    ![3G](3g.png "3g")
+    
+
+    4. What is the percentage of Phones which support 4G ?
+
+
+    ![4G](4g.png "4g")
+    
+    
+    5. What is the relation between Battery power and Price Range ?
+
+
+    ![Battery](battery.png "battery")
+
+
+    6. Visualizing No of Phones vs Camera megapixels of front and primary camera.
+
+    ![Camera](camera.png "camera")
+    
+    
+    7. What is the relation between Mobile Weight and Price Range ?
+
+    ![Mobile Weight](mobile_weight.png "mobile weight")    
+    
+
+    8. What is the relation between Talk time and Price Range ?
+
+    ![Talk time](talk_time.png "talk time")
+    
+    
+
+5. **Preprocessing the data.**
+
+
+    1. Normalizing the continuous columns.
+
+    2. Splitting the data.
+
+6. **developing the machine learning models.**
+
+    1. Linear regression.
+    
+    2. Logistic regression.
+
+    3. Decision tree.
+
+    4. SVM.
+
+    5. K-Nearest neighbors.
+
+    6. Random forest.
+
+7. **Conclusion.**
+
+8. **Prediction on the test set.**
+
+
+# Conclusion
+
+logistic regression model outperforms other models in the mobile price calssification problem with accuracy 94% .
+
+![Predictions](predictions.png "predictions")
+
+
+![Predictions2](predictions2.png "predictions2")
+
+
+![Predictions3](predictions3.png "predictions3")
+
+
+
+# [Project 2: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
 
 
 ![Exam](exam.jpg "exam")
@@ -90,7 +201,7 @@ The aim of this project is to understand the various facts like economic, person
 the random forest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
 
 
-# [Project 2: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
+# [Project 3: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
 ![Netflix](netflix.jpg "Netflix")
 
 Who doesn’t like Netflix? This dataset on Kaggle has TV shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.
@@ -152,7 +263,7 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 11. LISTED IN - Genre of the show
 
 
-# [Project 3: DNN speech recognizer](https://github.com/abdelrhmanwahdan/DNN-Speech-Recognizer)
+# [Project 4: DNN speech recognizer](https://github.com/abdelrhmanwahdan/DNN-Speech-Recognizer)
 ![automatic speech recognition](ASR.jpg)
 
 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="https://unsplash.com/s/photos/siri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -177,7 +288,7 @@ This project requires GPU acceleration to run efficiently.
     7. model 6: final model
 5. **visualizing and evaluating the models.**
 
-# [Project 4: Breast cancer detection](https://github.com/radwaahmed548/BCD)
+# [Project 5: Breast cancer detection](https://github.com/radwaahmed548/BCD)
 ![Breast cancer detection](BCD.jpg)
 Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/breasr-cancer-detection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -235,7 +346,7 @@ survival stories can inspire them and give them hope.
     - Database: Firebase.
     - Python.
 
-# [Project 5: Machine translation](https://github.com/abdelrhmanwahdan/machine-translation)
+# [Project 6: Machine translation](https://github.com/abdelrhmanwahdan/machine-translation)
 ![Machine translation](machine-translation.jpg)
 
 Photo by <a href="https://unsplash.com/@rvignes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Romain Vignes</a> on <a href="https://unsplash.com/s/photos/language-translation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -257,7 +368,7 @@ This project requires GPU acceleration to run efficiently.
     5. Model 5: Custom
 5. **visualizing and evaluating the models.**
 
-# [Project 6: IMDb movie data project](https://github.com/abdelrhmanwahdan/IMDb-movie-data-project)
+# [Project 7: IMDb movie data project](https://github.com/abdelrhmanwahdan/IMDb-movie-data-project)
 ![data visualization](data-visualization.jpg)
 
 Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Firmbee.com</a> on <a href="https://unsplash.com/s/photos/data-visualiztion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
