@@ -29,7 +29,7 @@ In this Project,We're going to predict the price range of each mobile in the dat
 4. **Data analysis and visualization.**
 
 
-    ![All](all.png "all")
+    ![All](all_features.png "all")
 
 
 
@@ -232,21 +232,21 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
 ### How content is distributed ?
 
-    ![Content distribution](netflix_content_distribution.png "Content distribution")
+![Content distribution](netflix_content_distribution.png "Content distribution")
 
 
 ### WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?
 
-    ![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
+![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
 
 
 ### what is the content added in each year ?
 
-    ![Content added](netflix_conent_added.png "Content added")
+![Content added](netflix_conent_added.png "Content added")
 
 ### what are the ratio of the genres ?
 
-    ![genres](netflix_genres.png "genres")
+![genres](netflix_genres.png "genres")
 
 4. **RECOMMENDATION SYSTEM**
 
