@@ -27,8 +27,6 @@ In this Project,We're going to predict the price range of each mobile in the dat
 3. **Understanding the data.**
 
 4. **Data analysis and visualization.**
-
-
     ![All](all.png "all")
 
 
