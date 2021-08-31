@@ -48,14 +48,14 @@ In this Project,We're going to predict the price range of each mobile in the dat
 
 
     ![3G](3g.png "3g")
-    
+
 
     4. What is the percentage of Phones which support 4G ?
 
 
     ![4G](4g.png "4g")
-    
-    
+
+
     5. What is the relation between Battery power and Price Range ?
 
 
@@ -65,12 +65,12 @@ In this Project,We're going to predict the price range of each mobile in the dat
     6. Visualizing No of Phones vs Camera megapixels of front and primary camera.
 
     ![Camera](camera.png "camera")
-    
-    
+
+
     7. What is the relation between Mobile Weight and Price Range ?
 
     ![Mobile Weight](mobile_weight.png "mobile weight")    
-    
+
 
     8. What is the relation between Talk time and Price Range ?
 
