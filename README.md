@@ -33,49 +33,49 @@ In this Project,We're going to predict the price range of each mobile in the dat
 
 
 
-    **How does ram is affected by price ?**
+    ### How does ram is affected by price ?
 
 
     ![Ram](ram.png "ram")
 
 
-    **What is the relation between Internal Memory and Price Range ? **
+    ### What is the relation between Internal Memory and Price Range ? 
 
 
     ![Internal memory](internal_memory.png "internal memory")
 
 
-    **What is the percentage of Phones which support 3G ?**
+    ### What is the percentage of Phones which support 3G ?
 
 
     ![3G](3g.png "3g")
 
 
-    **What is the percentage of Phones which support 4G ?**
+    ### What is the percentage of Phones which support 4G ?
 
 
     ![4G](4g.png "4g")
 
 
-    **What is the relation between Battery power and Price Range ?**
+    ### What is the relation between Battery power and Price Range ?
 
 
     ![Battery](battery.png "battery")
 
 
-    **Visualizing No of Phones vs Camera megapixels of front and primary camera.**
+    ### Visualizing No of Phones vs Camera megapixels of front and primary camera.
     
 
     ![Camera](camera.png "camera")
 
 
-    **What is the relation between Mobile Weight and Price Range ?**
+    ### What is the relation between Mobile Weight and Price Range ?
 
 
     ![Mobile Weight](mobile_weight.png "mobile weight")    
 
 
-    **What is the relation between Talk time and Price Range ?**
+    ### What is the relation between Talk time and Price Range ?
 
 
     ![Talk time](talk_time.png "talk time")
