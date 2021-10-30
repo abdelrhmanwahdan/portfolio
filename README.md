@@ -43,7 +43,7 @@ The aim is to build a predictive model to find out the sales of each product at 
 
 5. **Feature Engineering**
 
-6. **Feature Scalling**
+6. **Feature Scaling**
 
 7. **Building Models**
 
