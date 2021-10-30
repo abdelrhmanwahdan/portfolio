@@ -7,7 +7,78 @@ to start building personalized learning products for people.*
 # Education
 * Bachelor's Degree Faculty of computer and artiﬁcial intelligence , *Helwan university* 04/2017 - 06/2021.
 
-# [Project 1: Mobile price prediction](https://github.com/abdelrhmanwahdan/mobile-price-classification)
+# [Project 1: Bigmart EDA](https://github.com/abdelrhmanwahdan/Bigmart-EDA)
+![Analysis](images/analysis.jpeg "Analysis")
+
+The data scientists at BigMart have collected sales data for 1559 products across 10 stores in different cities for the year 2013. Now each product has certain attributes that sets it apart from other products. Same is the case with each store.
+The aim is to build a predictive model to find out the sales of each product at a particular store so that it would help the decision makers at BigMart to find out the properties of any product or store, which play a key role in increasing the overall sales.
+
+# Contents
+0. **About Data**
+
+1. **Import Libraries and data**
+
+2. **Data Inspection**
+
+3. **Data Cleaning :**
+
+    - Missing values imputation
+
+    - Dealing with inconsistent values
+
+4. **Data Visualization**
+
+![fat_itemtype](images/fat_itemtype.png "fat_itemtype")
+
+
+![store_outletlocation](images/store_outletlocation.png "store_outletlocation")
+
+
+![item_MRP](images/item_MRP.png "item_MRP")
+
+
+![item_type](images/item_type.png "item_type")
+
+
+
+5. **Feature Engineering**
+
+6. **Feature Scalling**
+
+7. **Building Models**
+
+8. **Conclusion**
+
+# About the data
+
+### FEATURES:
+
+- Item_Identifier : Unique product ID
+
+- Item_Weight : Weight of product
+
+- Item_Fat_Content : Whether the product is low fat or not
+
+- Item_Visibility : The % of total display area of all products in a store allocated to the particular product
+
+- Item_Type : The category to which the product belongs
+
+- Item_MRP : Maximum Retail Price (list price) of the product
+
+- Outlet_Identifier : Unique store ID
+
+- Outlet_Establishment_Year : The year in which store was established
+
+- Outlet_Size : The size of the store in terms of ground area covered
+
+- Outlet_Location_Type : The type of city in which the store is located
+
+- Outlet_Type : Whether the outlet is just a grocery store or some sort of supermarket
+
+- Item_Outlet_Sales : Sales of the product in the particular store.
+
+
+# [Project 2: Mobile price prediction](https://github.com/abdelrhmanwahdan/mobile-price-classification)
 
 
 ![mobile](mobile.webp "mobile")
@@ -122,7 +193,7 @@ logistic regression model outperforms other models in the mobile price calssific
 
 
 
-# [Project 2: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
+# [Project 3: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
 
 
 ![Exam](exam.jpg "exam")
@@ -205,7 +276,7 @@ The aim of this project is to understand the various facts like economic, person
 the random forest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
 
 
-# [Project 3: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
+# [Project 4: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
 ![Netflix](netflix.jpg "Netflix")
 
 Who doesn’t like Netflix? This dataset on Kaggle has TV shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.
@@ -267,7 +338,7 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 11. LISTED IN - Genre of the show
 
 
-# [Project 4: DNN speech recognizer](https://github.com/abdelrhmanwahdan/DNN-Speech-Recognizer)
+# [Project 5: DNN speech recognizer](https://github.com/abdelrhmanwahdan/DNN-Speech-Recognizer)
 ![automatic speech recognition](ASR.jpg)
 
 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="https://unsplash.com/s/photos/siri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -292,7 +363,7 @@ This project requires GPU acceleration to run efficiently.
     7. model 6: final model
 5. **visualizing and evaluating the models.**
 
-# [Project 5: Breast cancer detection](https://github.com/radwaahmed548/BCD)
+# [Project 6: Breast cancer detection](https://github.com/radwaahmed548/BCD)
 ![Breast cancer detection](BCD.jpg)
 Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/breasr-cancer-detection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -350,7 +421,7 @@ survival stories can inspire them and give them hope.
     - Database: Firebase.
     - Python.
 
-# [Project 6: Machine translation](https://github.com/abdelrhmanwahdan/machine-translation)
+# [Project 7: Machine translation](https://github.com/abdelrhmanwahdan/machine-translation)
 ![Machine translation](machine-translation.jpg)
 
 Photo by <a href="https://unsplash.com/@rvignes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Romain Vignes</a> on <a href="https://unsplash.com/s/photos/language-translation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -372,7 +443,7 @@ This project requires GPU acceleration to run efficiently.
     5. Model 5: Custom
 5. **visualizing and evaluating the models.**
 
-# [Project 7: IMDb movie data project](https://github.com/abdelrhmanwahdan/IMDb-movie-data-project)
+# [Project 8: IMDb movie data project](https://github.com/abdelrhmanwahdan/IMDb-movie-data-project)
 ![data visualization](data-visualization.jpg)
 
 Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Firmbee.com</a> on <a href="https://unsplash.com/s/photos/data-visualiztion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
