@@ -5,9 +5,50 @@ I'd love to combine my passion for learning and teaching with my machine learnin
 to start building personalized learning products for people.*
 
 # Education
-* Bachelor's Degree Faculty of computer and artiﬁcial intelligence , *Helwan university* 04/2017 - 06/2021.
+* Bachelor's Degree Faculty of computer and artiﬁcial intelligence , *Helwan university* 2017 - 2021.
+* Master of Science in Data Science, *Helwan university* 2023-present
 
-# [Project 1: Bigmart EDA](https://github.com/abdelrhmanwahdan/Bigmart-EDA)
+# [Project 1: Wahdan GPT](https://github.com/abdelrhmanwahdan/Wahdan-GPT)
+
+In this project I have created a mini version of the famous chat-gpt using a lptop with modest specifications However Wahdan GPT is capable of doing language tasks with pretty descent results and here is some examples of the tasks that Wahdan GPT is capable of:
+
+- Translate from language to language.
+- Summarize long paragraphs into small but meaningful paragraphs
+- Parphrase sentences.
+- Answer any questions
+
+## Watch Wahdan GPT in action
+
+To watch Wahdan GPT in action video [click here](https://www.youtube.com/watch?v=V9aneMw2nrc).<br><br>
+[![Watch Wahdan GPT video](https://img.youtube.com/vi/V9aneMw2nrc/0.jpg)](https://www.youtube.com/watch?v=V9aneMw2nrc)
+
+## Tools
+
+This is a fullstack mini chatgpt created using natural language processing so I have used different tools for different parts of the projects which are:
+
+- Hugging-face transformers library for the language model.
+- google/flan-t5-large text2text generation model.
+- React-js for the front-end part.
+- Flask for the back-end part.
+
+# [Project 2: Wahdan chatbot](https://github.com/abdelrhmanwahdan/Wahdan-chatbot)
+
+In this project I have created a chatbot website using natural language processing that is specialized for a fashion brand and You can ask any question in the brand and it will understand your question and answers it.
+
+## Watch Wahdan chatbot in action
+To watch the Wahdan chatbot in action video [click here](https://www.youtube.com/watch?v=imtkF0nmlAU).<br><br>
+[![Watch the Wahdan chatbot video](https://img.youtube.com/vi/imtkF0nmlAU/0.jpg)](https://www.youtube.com/watch?v=imtkF0nmlAU)
+
+## Tools
+
+This is a fullstack chatbot created using natural language processing so I have used different tools for different parts of the projects which are:
+
+- Hugging-face transformers library for the language model ("facebook/bart-large-mnli" model).
+- facebook/bart-large-mnli classification model.
+- React-js for the front-end part.
+- Flask for the back-end part.
+
+# [Project 3: Bigmart EDA](https://github.com/abdelrhmanwahdan/Bigmart-EDA)
 ![Analysis](analysis.jpg "Analysis")
 
 The data scientists at BigMart have collected sales data for 1559 products across 10 stores in different cities for the year 2013. Now each product has certain attributes that sets it apart from other products. Same is the case with each store.
@@ -78,7 +119,7 @@ The aim is to build a predictive model to find out the sales of each product at 
 - Item_Outlet_Sales : Sales of the product in the particular store.
 
 
-# [Project 2: Mobile price prediction](https://github.com/abdelrhmanwahdan/mobile-price-classification)
+# [Project 4: Mobile price prediction](https://github.com/abdelrhmanwahdan/mobile-price-classification)
 
 
 ![mobile](mobile.webp "mobile")
@@ -193,7 +234,7 @@ logistic regression model outperforms other models in the mobile price calssific
 
 
 
-# [Project 3: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
+# [Project 5: Students performance in exams](https://github.com/abdelrhmanwahdan/Students-performance-in-exams)
 
 
 ![Exam](exam.jpg "exam")
@@ -276,7 +317,7 @@ The aim of this project is to understand the various facts like economic, person
 the random forest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
 
 
-# [Project 4: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
+# [Project 6: EDA on Netflix Movies and TV Shows dataset](https://github.com/abdelrhmanwahdan/EDA-on-Netflix-Movies-and-TV-Shows-data-set)
 ![Netflix](netflix.jpg "Netflix")
 
 Who doesn’t like Netflix? This dataset on Kaggle has TV shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.
@@ -338,7 +379,7 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 11. LISTED IN - Genre of the show
 
 
-# [Project 5: DNN speech recognizer](https://github.com/abdelrhmanwahdan/DNN-Speech-Recognizer)
+# [Project 7: DNN speech recognizer](https://github.com/abdelrhmanwahdan/DNN-Speech-Recognizer)
 ![automatic speech recognition](ASR.jpg)
 
 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="https://unsplash.com/s/photos/siri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -363,7 +404,7 @@ This project requires GPU acceleration to run efficiently.
     7. model 6: final model
 5. **visualizing and evaluating the models.**
 
-# [Project 6: Breast cancer detection](https://github.com/radwaahmed548/BCD)
+# [Project 8: Breast cancer detection](https://github.com/radwaahmed548/BCD)
 ![Breast cancer detection](BCD.jpg)
 Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/breasr-cancer-detection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -421,7 +462,7 @@ survival stories can inspire them and give them hope.
     - Database: Firebase.
     - Python.
 
-# [Project 7: Machine translation](https://github.com/abdelrhmanwahdan/machine-translation)
+# [Project 9: Machine translation](https://github.com/abdelrhmanwahdan/machine-translation)
 ![Machine translation](machine-translation.jpg)
 
 Photo by <a href="https://unsplash.com/@rvignes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Romain Vignes</a> on <a href="https://unsplash.com/s/photos/language-translation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -443,20 +484,6 @@ This project requires GPU acceleration to run efficiently.
     5. Model 5: Custom
 5. **visualizing and evaluating the models.**
 
-# [Project 8: IMDb movie data project](https://github.com/abdelrhmanwahdan/IMDb-movie-data-project)
-![data visualization](data-visualization.jpg)
-
-Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Firmbee.com</a> on <a href="https://unsplash.com/s/photos/data-visualiztion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-  
-in this project I investigate ,analyze ,clean and visualize The IMDb movie data.
-
-#### **contents:**
-1. **Data wrangling (Data gathering, Data assessing, Data cleaning).**
-2. **Exploratory Data Analysis.**
-3. **getting answers on some questions about the correlations between the features of the dataset and if there any relation between them.**
-
-![analyzing imdb dataset](imdb.png)
 
 
 
