@@ -1,63 +1,45 @@
-'use client';
-
-import { useEffect, useState } from 'react';
-import Particles, { initParticlesEngine } from '@tsparticles/react';
-import { loadSlim } from '@tsparticles/slim';
-import type { ISourceOptions } from '@tsparticles/engine';
-
-const options: ISourceOptions = {
-  background: { color: { value: 'transparent' } },
-  fpsLimit: 60,
-  interactivity: {
-    events: {
-      onHover: { enable: true, mode: 'grab' },
-      resize: { enable: true },
-    },
-    modes: {
-      grab: { distance: 140, links: { opacity: 0.4 } },
-    },
-  },
-  particles: {
-    color: { value: ['#00d4ff', '#7c3aed', '#38bdf8'] },
-    links: {
-      color: '#00d4ff',
-      distance: 130,
-      enable: true,
-      opacity: 0.1,
-      width: 1,
-    },
-    move: {
-      direction: 'none',
-      enable: true,
-      outModes: { default: 'bounce' },
-      random: true,
-      speed: 0.6,
-      straight: false,
-    },
-    number: { density: { enable: true }, value: 80 },
-    opacity: { value: { min: 0.05, max: 0.4 } },
-    shape: { type: 'circle' },
-    size: { value: { min: 1, max: 2.5 } },
-  },
-  detectRetina: true,
-};
-
 export default function ParticleBackground() {
-  const [ready, setReady] = useState(false);
-
-  useEffect(() => {
-    initParticlesEngine(async (engine) => {
-      await loadSlim(engine);
-    }).then(() => setReady(true));
-  }, []);
-
-  if (!ready) return null;
-
   return (
-    <Particles
-      id="tsparticles"
-      options={options}
-      className="absolute inset-0"
-    />
+    <div className="absolute inset-0 overflow-hidden">
+      {/* Slow ambient orbs */}
+      <div
+        className="absolute w-[600px] h-[600px] rounded-full opacity-[0.07]"
+        style={{
+          background: 'radial-gradient(circle, #00d4ff 0%, transparent 70%)',
+          top: '-10%',
+          left: '-5%',
+          animation: 'drift1 20s ease-in-out infinite alternate',
+        }}
+      />
+      <div
+        className="absolute w-[500px] h-[500px] rounded-full opacity-[0.05]"
+        style={{
+          background: 'radial-gradient(circle, #7c3aed 0%, transparent 70%)',
+          bottom: '-5%',
+          right: '-5%',
+          animation: 'drift2 25s ease-in-out infinite alternate',
+        }}
+      />
+      <div
+        className="absolute w-[400px] h-[400px] rounded-full opacity-[0.04]"
+        style={{
+          background: 'radial-gradient(circle, #ec4899 0%, transparent 70%)',
+          top: '40%',
+          right: '20%',
+          animation: 'drift1 30s ease-in-out infinite alternate-reverse',
+        }}
+      />
+
+      <style>{`
+        @keyframes drift1 {
+          from { transform: translate(0, 0); }
+          to   { transform: translate(40px, 30px); }
+        }
+        @keyframes drift2 {
+          from { transform: translate(0, 0); }
+          to   { transform: translate(-40px, -25px); }
+        }
+      `}</style>
+    </div>
   );
 }
