@@ -44,7 +44,7 @@ export default function About() {
   const inView = useInView(ref, { once: true, margin: '-80px' });
 
   return (
-    <section id="about" className="relative py-24 px-6">
+    <section id="about" className="relative py-24 px-6 overflow-hidden">
       {/* Background glow */}
       <div className="absolute top-1/2 left-0 w-80 h-80 bg-[#7c3aed]/5 rounded-full blur-3xl -translate-y-1/2" />
 

@@ -151,10 +151,10 @@ export default function Hero() {
           initial={{ opacity: 0, scale: 0.85 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.2, ease: 'easeOut' }}
-          className="relative flex-shrink-0"
+          className="relative flex-shrink-0 px-8"
         >
           {/* Spinning ring */}
-          <div className="absolute inset-0 rounded-full animate-spin-slow">
+          <div className="absolute inset-8 rounded-full animate-spin-slow">
             <div className="w-full h-full rounded-full border-2 border-transparent"
               style={{
                 background: 'conic-gradient(from 0deg, #00d4ff, #7c3aed, #ec4899, transparent, transparent)',
@@ -165,7 +165,7 @@ export default function Hero() {
           </div>
 
           {/* Photo container */}
-          <div className="relative w-64 h-64 sm:w-72 sm:h-72 lg:w-80 lg:h-80 animate-float">
+          <div className="relative w-56 h-56 sm:w-64 sm:h-64 lg:w-72 lg:h-72 animate-float">
             <div className="w-full h-full rounded-full overflow-hidden border-4 border-[#0a1628] animate-pulse-ring">
               <Image
                 src="/me.jpeg"
@@ -181,7 +181,7 @@ export default function Hero() {
             <motion.div
               animate={{ y: [0, -6, 0] }}
               transition={{ duration: 3, repeat: Infinity, ease: 'easeInOut' }}
-              className="absolute -bottom-4 -right-4 glass rounded-xl px-4 py-2 border border-[#00d4ff]/20"
+              className="absolute -bottom-2 right-0 glass rounded-xl px-3 py-2 border border-[#00d4ff]/20"
             >
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
@@ -190,11 +190,11 @@ export default function Hero() {
               <div className="text-[10px] text-[#8892b0] mt-0.5">Valify · Open to Consulting</div>
             </motion.div>
 
-            {/* Floating badge — 12 engineers */}
+            {/* Floating badge — engineers */}
             <motion.div
               animate={{ y: [0, 6, 0] }}
               transition={{ duration: 3.5, repeat: Infinity, ease: 'easeInOut', delay: 0.5 }}
-              className="absolute -top-4 -left-6 glass rounded-xl px-4 py-2 border border-[#7c3aed]/20"
+              className="absolute -top-2 left-0 glass rounded-xl px-3 py-2 border border-[#7c3aed]/20"
             >
               <div className="text-xl font-black gradient-text">8</div>
               <div className="text-[10px] text-[#8892b0]">Engineers Led</div>

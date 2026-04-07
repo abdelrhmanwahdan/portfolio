@@ -103,7 +103,7 @@ export default function Projects() {
   const inView = useInView(ref, { once: true, margin: '-60px' });
 
   return (
-    <section id="projects" className="relative py-24 px-6">
+    <section id="projects" className="relative py-24 px-6 overflow-hidden">
       <div className="absolute top-1/3 right-0 w-80 h-80 bg-[#ec4899]/4 rounded-full blur-3xl" />
 
       <div className="max-w-7xl mx-auto" ref={ref}>

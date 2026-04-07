@@ -79,7 +79,7 @@ export default function Certifications() {
   const inView = useInView(ref, { once: true, margin: '-60px' });
 
   return (
-    <section id="certifications" className="relative py-24 px-6">
+    <section id="certifications" className="relative py-24 px-6 overflow-hidden">
       <div className="absolute bottom-0 right-1/3 w-80 h-80 bg-[#00d4ff]/4 rounded-full blur-3xl" />
 
       <div className="max-w-7xl mx-auto" ref={ref}>

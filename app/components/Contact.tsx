@@ -33,7 +33,7 @@ export default function Contact() {
   const inView = useInView(ref, { once: true, margin: '-60px' });
 
   return (
-    <section id="contact" className="relative py-24 px-6">
+    <section id="contact" className="relative py-24 px-6 overflow-hidden">
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0a0f1c]/50 to-[#050a18]" />
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-2xl h-px bg-gradient-to-r from-transparent via-[#00d4ff]/30 to-transparent" />

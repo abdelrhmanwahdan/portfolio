@@ -132,7 +132,7 @@ export default function Experience() {
   const inView = useInView(ref, { once: true, margin: '-60px' });
 
   return (
-    <section id="experience" className="relative py-24 px-6">
+    <section id="experience" className="relative py-24 px-6 overflow-hidden">
       <div className="absolute top-0 right-0 w-96 h-96 bg-[#00d4ff]/4 rounded-full blur-3xl" />
 
       <div className="max-w-5xl mx-auto" ref={ref}>
@@ -164,8 +164,8 @@ export default function Experience() {
               return (
                 <motion.div
                   key={`${role.company}-${role.role}`}
-                  initial={{ opacity: 0, x: isLeft ? -40 : 40 }}
-                  animate={inView ? { opacity: 1, x: 0 } : {}}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={inView ? { opacity: 1, y: 0 } : {}}
                   transition={{ duration: 0.6, delay: 0.1 + i * 0.07 }}
                   className={`relative flex items-start gap-4 md:gap-0 ${
                     isLeft ? 'md:flex-row' : 'md:flex-row-reverse'
