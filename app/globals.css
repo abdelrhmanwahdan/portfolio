@@ -37,7 +37,7 @@ body {
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, #00d4ff 0%, #7c3aed 50%, #10b981 100%);
+  background: linear-gradient(135deg, #10b981 0%, #00d4ff 50%, #7c3aed 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -143,24 +143,24 @@ body {
 
 /* CTA buttons */
 .btn-primary {
-  background: linear-gradient(135deg, #00d4ff, #7c3aed);
+  background: linear-gradient(135deg, #00d4ff, #10b981);
   transition: all 0.3s ease;
 }
 
 .btn-primary:hover {
-  box-shadow: 0 0 25px rgba(0, 212, 255, 0.4), 0 0 50px rgba(124, 58, 237, 0.2);
+  box-shadow: 0 0 25px rgba(0, 212, 255, 0.4), 0 0 50px rgba(16, 185, 129, 0.3);
   transform: translateY(-2px);
 }
 
 .btn-outline {
-  border: 1px solid rgba(0, 212, 255, 0.4);
-  color: #00d4ff;
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  color: #10b981;
   transition: all 0.3s ease;
 }
 
 .btn-outline:hover {
-  background: rgba(0, 212, 255, 0.1);
-  border-color: #00d4ff;
-  box-shadow: 0 0 20px rgba(0, 212, 255, 0.2);
+  background: rgba(16, 185, 129, 0.1);
+  border-color: #10b981;
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.25);
   transform: translateY(-2px);
 }

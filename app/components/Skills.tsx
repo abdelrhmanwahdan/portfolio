@@ -73,9 +73,9 @@ export default function Skills() {
           className="mb-16 text-center"
         >
           <div className="flex items-center gap-3 justify-center mb-4">
-            <div className="h-px w-8 bg-[#00d4ff]" />
-            <span className="text-[#00d4ff] text-sm font-medium tracking-widest uppercase">Technical Arsenal</span>
-            <div className="h-px w-8 bg-[#00d4ff]" />
+            <div className="h-px w-8 bg-[#10b981]" />
+            <span className="text-[#10b981] text-sm font-medium tracking-widest uppercase">Technical Arsenal</span>
+            <div className="h-px w-8 bg-[#10b981]" />
           </div>
           <h2 className="text-4xl sm:text-5xl font-black text-white">
             Skills & <span className="gradient-text">Expertise</span>

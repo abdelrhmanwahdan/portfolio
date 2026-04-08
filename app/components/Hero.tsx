@@ -56,7 +56,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <span className="inline-block text-sm font-medium text-[#00d4ff] tracking-[0.2em] uppercase mb-4 px-3 py-1 border border-[#00d4ff]/20 rounded-full bg-[#00d4ff]/5">
+            <span className="inline-block text-sm font-medium text-[#10b981] tracking-[0.2em] uppercase mb-4 px-3 py-1 border border-[#10b981]/30 rounded-full bg-[#10b981]/8">
               Available for opportunities
             </span>
           </motion.div>

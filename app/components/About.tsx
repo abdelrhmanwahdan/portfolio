@@ -171,7 +171,7 @@ export default function About() {
                         initial={{ width: 0 }}
                         animate={inView ? { width: `${l.pct}%` } : {}}
                         transition={{ duration: 1, delay: 0.8 }}
-                        className="h-full rounded-full bg-gradient-to-r from-[#00d4ff] to-[#7c3aed]"
+                        className="h-full rounded-full bg-gradient-to-r from-[#10b981] to-[#00d4ff]"
                       />
                     </div>
                   </div>
