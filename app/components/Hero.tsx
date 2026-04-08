@@ -157,7 +157,7 @@ export default function Hero() {
           <div className="absolute inset-8 rounded-full animate-spin-slow">
             <div className="w-full h-full rounded-full border-2 border-transparent"
               style={{
-                background: 'conic-gradient(from 0deg, #00d4ff, #7c3aed, #ec4899, transparent, transparent)',
+                background: 'conic-gradient(from 0deg, #00d4ff, #7c3aed, #10b981, transparent, transparent)',
                 borderRadius: '50%',
                 padding: '2px',
               }}

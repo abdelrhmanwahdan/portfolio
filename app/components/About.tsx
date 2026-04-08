@@ -7,7 +7,7 @@ import { FiMapPin, FiBookOpen, FiUsers, FiBriefcase } from 'react-icons/fi';
 const stats = [
   { value: 5, suffix: '+', label: 'Years Experience', icon: FiBriefcase, color: '#00d4ff' },
   { value: 8, suffix: '', label: 'Engineers Managed', icon: FiUsers, color: '#7c3aed' },
-  { value: 8, suffix: '+', label: 'Companies', icon: FiBriefcase, color: '#ec4899' },
+  { value: 8, suffix: '+', label: 'Companies', icon: FiBriefcase, color: '#10b981' },
   { value: 20, suffix: '+', label: 'Certifications', icon: FiBookOpen, color: '#10b981' },
 ];
 

@@ -30,7 +30,7 @@ const skillGroups: SkillGroup[] = [
   },
   {
     category: 'Cloud & MLOps',
-    color: '#ec4899',
+    color: '#10b981',
     skills: [
       'AWS', 'GCP', 'Azure', 'Azure Document Intelligence',
       'Docker', 'CI/CD', 'MLOps', 'Model Monitoring',
@@ -133,7 +133,7 @@ export default function Skills() {
             {[
               { label: 'Deep Learning', pct: 95, color: '#00d4ff' },
               { label: 'Computer Vision', pct: 90, color: '#7c3aed' },
-              { label: 'NLP / LLMs', pct: 88, color: '#ec4899' },
+              { label: 'NLP / LLMs', pct: 88, color: '#7c3aed' },
               { label: 'MLOps / DevOps', pct: 85, color: '#10b981' },
               { label: 'Python', pct: 97, color: '#f59e0b' },
               { label: 'Cloud (AWS/GCP/Azure)', pct: 82, color: '#38bdf8' },
